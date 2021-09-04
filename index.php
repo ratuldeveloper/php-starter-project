@@ -40,6 +40,13 @@ class ExceptionParent {
     public function getUserDetails() {
         return $this->name.','.$this->address;
     }
+   
+    // public String setUserDetails($name) {
+
+    // }
+    // public String setUserDetails($name,$address) {
+
+    // }
 }
 
 
@@ -106,12 +113,6 @@ class ExceptionParent {
  //echo $e->getMessage();
 
 
-// JSON - Javascaript 
-echo "Another commit";
-echo "Another commit1";
-echo "Another commit4";
-echo "Another commit2";
-echo "Another commit3";
 
 
 
